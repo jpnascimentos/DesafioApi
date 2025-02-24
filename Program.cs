@@ -1,6 +1,6 @@
-using DesafioApi.Interfaces;
-using DesafioApi.Models;
-using DesafioApi.Repositorios;
+//using DesafioApi.Interfaces;
+//using DesafioApi.Models;
+//using DesafioApi.Repositorios;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,12 +12,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<DesafioContext>(options =>
-{
-    options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoString"));
-});
+//builder.Services.AddDbContext<DesafioContext>(options =>
+//{
+//    options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoString"));
+//});
 
-builder.Services.AddScoped<IClienteRepositorio, ClienteRepositorio>();
+//builder.Services.AddScoped<IClienteRepositorio, ClienteRepositorio>();
 
 var app = builder.Build();
 
