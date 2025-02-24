@@ -1,6 +1,6 @@
-//using DesafioApi.Interfaces;
-//using DesafioApi.Models;
-//using DesafioApi.Repositorios;
+using DesafioApi.Interfaces;
+using DesafioApi.Models;
+using DesafioApi.Repositorios;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

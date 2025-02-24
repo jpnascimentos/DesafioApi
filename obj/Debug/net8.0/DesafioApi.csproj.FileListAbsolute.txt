@@ -1,0 +1,8 @@
+C:\Users\joao.santos\Source\Repos\DesafioApi\obj\Debug\net8.0\DesafioApi.csproj.AssemblyReference.cache
+C:\Users\joao.santos\Source\Repos\DesafioApi\obj\Debug\net8.0\DesafioApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.santos\Source\Repos\DesafioApi\obj\Debug\net8.0\DesafioApi.AssemblyInfoInputs.cache
+C:\Users\joao.santos\Source\Repos\DesafioApi\obj\Debug\net8.0\DesafioApi.AssemblyInfo.cs
+C:\Users\joao.santos\Source\Repos\DesafioApi\obj\Debug\net8.0\DesafioApi.csproj.CoreCompileInputs.cache
+C:\Users\joao.santos\Source\Repos\DesafioApi\obj\Debug\net8.0\DesafioApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joao.santos\Source\Repos\DesafioApi\obj\Debug\net8.0\DesafioApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joao.santos\Source\Repos\DesafioApi\obj\Debug\net8.0\DesafioApi.sourcelink.json
